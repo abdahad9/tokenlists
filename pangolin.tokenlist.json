@@ -1,0 +1,70 @@
+{
+  "name": "Pangolin Tokenlist",
+  "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x60781C2586D68229fde47564546784ab3fACA982/logo_48.png",
+  "keywords": [
+  ],
+  "version": {
+    "major": 1,
+    "minor": 5,
+    "patch": 0
+  },
+  "timestamp": "2022-06-10T15:42:00+00:00",
+  "tokens": [
+    {
+      "chainId": 16,
+      "address": "0x8C0c6B6e31A8b57D6eAB31391950bFaD4f8eb229",
+      "decimals": 18,
+      "name": "Pangolin",
+      "symbol": "costonPNG",
+      "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/16/0x8C0c6B6e31A8b57D6eAB31391950bFaD4f8eb229/logo.png"
+    },
+    {
+      "chainId": 11111,
+      "address": "0x21cf0eB2E3Ab483a67C900b27dA8F34185991982",
+      "decimals": 18,
+      "name": "Wrapped AVAX",
+      "symbol": "WAVAX",
+      "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/11111/0x21cf0eB2E3Ab483a67C900b27dA8F34185991982/logo.png"
+    },
+    {
+      "chainId": 43113,
+      "address": "0x2058ec2791dD28b6f67DB836ddf87534F4Bbdf22",
+      "name": "The Fuji stablecoin",
+      "symbol": "FUJISTABLE",
+      "decimals": 6,
+      "logoURI": "https://i.imgur.com/LPZDXoT.png"
+    },
+    {
+      "chainId": 43113,
+      "address": "0x97132C109c6816525F7f338DCb7435E1412A7668",
+      "name": "To the Moon",
+      "symbol": "FUJIMOON",
+      "decimals": 9,
+      "logoURI": "https://i.imgur.com/jNTqyQA.png"
+    },
+    {
+      "chainId": 43113,
+      "address": "0xF561800EdedF4CE146ED427Cacf1Fb8aB3B2D452",
+      "name": "Wrapped WAGMI",
+      "symbol": "WWAGMI",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/43113/0xF561800EdedF4CE146ED427Cacf1Fb8aB3B2D452/logo.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0x60781C2586D68229fde47564546784ab3fACA982",
+      "decimals": 18,
+      "name": "Pangolin",
+      "symbol": "PNG",
+      "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x60781C2586D68229fde47564546784ab3fACA982/logo.png"
+    },
+    {
+      "chainId": 80001,
+      "address": "0x4828a3D98E428e73184374845f23C40eB76bA695",
+      "decimals": 18,
+      "name": "Pangolin",
+      "symbol": "mumbaiPNG",
+      "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/80001/0x4828a3D98E428e73184374845f23C40eB76bA695/logo.png"
+    }
+  ]
+}
